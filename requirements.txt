@@ -1,0 +1,15 @@
+
+# Dagster orchestration
+dagster==1.13.3
+dagster-webserver==1.13.3
+
+# Database
+sqlalchemy==2.0.36
+psycopg2-binary==2.9.10
+
+# Data processing
+pandas==2.2.3
+
+# Configuration and environment
+python-dotenv==1.0.1
+pyyaml==6.0.2
