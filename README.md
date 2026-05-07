@@ -1,6 +1,6 @@
 # risingahead
 
-Local financial data platform. Ingests from Oracle (mocked as CSV), runs through Bronze / Silver / Gold in Postgres, orchestrated by Dagster.
+Local financial data platform. Ingests from  mocked CSV data, runs through Bronze / Silver / Gold in Postgres, orchestrated by Dagster.
 
 ---
 
